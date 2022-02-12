@@ -8,7 +8,7 @@ const Footer = ({ footerContent }) => {
       <footer className='footer mt-auto py-3 blog-footer'>
         <p className='mb-0'>
           {footerContent}{' '}
-          <a href='https://www.github.com/govindvish'>
+          <a href='https://github.com/govindvish/white-label-app'>
             PoweredBy @WhiteLabel React App
           </a>
         </p>
