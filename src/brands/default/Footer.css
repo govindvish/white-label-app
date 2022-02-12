@@ -1,0 +1,6 @@
+.blog-footer {
+  color: var(--primary-text-color);
+  text-align: center;
+  background-color: var(--primary-color);
+  border-top: 0.05rem solid #e5e5e5;
+}
