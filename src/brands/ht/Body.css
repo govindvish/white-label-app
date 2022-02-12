@@ -1,0 +1,24 @@
+.img-rotate {
+  transition: transform 0.7s ease-in-out;
+}
+
+.img-rotate:hover {
+  transform: rotate(360deg);
+}
+
+.link-text {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.link-text:hover {
+  color: #0056b3;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.ht-text {
+  font-weight: 400;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-style: italic;
+}

@@ -19,7 +19,7 @@ const Body = ({ cardDetails }) => {
                           {section}
                         </strong>
                         <h5 className='card-title'>{title}</h5>
-                        <p className='card-text'>{topic}</p>
+                        <p className='card-text ht-text'>{topic}</p>
                         <p className='card-text'>
                           <small className='text-muted'>{date}</small>
                         </p>

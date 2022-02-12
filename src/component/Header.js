@@ -11,7 +11,7 @@ const Header = ({ headerTitle, headerMenus, headerLogo }) => {
             <img
               src={headerLogo}
               alt={headerTitle}
-              width='600px'
+              max-width='400px'
               height='100%'
             />
           </div>

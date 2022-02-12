@@ -1,7 +1,7 @@
 :root {
-  --primary-color: #f9f9f9;
-  --primary-text-color: #222823;
-  --secondary-color: #ff0022;
+  --primary-color: #282c34;
+  --secondary-color: #61dafb;
+  --primary-text-color: #fff;
 }
 
 .container {
